@@ -350,11 +350,11 @@ All extracted values were verified to be in non-decreasing order.
 
 ### Plot 1 – Execution Time vs. n
 
-<img src="./results/plots/execution_time_vs_n.png" width="600" alt="Execution Time vs n">
+<img src="execution_time_vs_n.png" width="600">
 
 ### Plot 2 – Operations / Comparisons / Accesses vs. n
 
-<img src="./results/plots/operations_vs_n.png" width="600" alt="Operations vs n">
+<img src="operations_vs_n.png" width="600">
 
 
 
