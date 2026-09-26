@@ -350,19 +350,15 @@ All extracted values were verified to be in non-decreasing order.
 
 ### Plot 1 — Execution Time vs. n
 
-The first plot shows how execution time changes when the input size increases.
-
-![Execution Time vs n](results/plots/execution_time_vs_n.png)
-
-This plot helps to compare the practical running time of the implemented data structures for increasing input sizes.
+<p align="center">
+  <img src="results/plots/execution_time_vs_n.png" width="650">
+</p>
 
 ### Plot 2 — Operations / Comparisons / Accesses vs. n
 
-The second plot shows how the number of measured operations changes as the input size increases.
-
-![Operations vs n](results/plots/operations_vs_n.png)
-
-This plot is useful for comparing the growth of comparisons, accesses, and other measured operations with the theoretical complexity.
+<p align="center">
+  <img src="results/plots/operations_vs_n.png" width="650">
+</p>
 
 
 
