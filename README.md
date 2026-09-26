@@ -348,17 +348,13 @@ The Min-Heap results show that insertion and extraction become more expensive as
 
 All extracted values were verified to be in non-decreasing order.
 
-### Plot 1 — Execution Time vs. n
+### Plot 1 – Execution Time vs. n
 
-<p align="center">
-  <img src="results/plots/execution_time_vs_n.png" width="650">
-</p>
+<img src="./results/plots/execution_time_vs_n.png" width="600" alt="Execution Time vs n">
 
-### Plot 2 — Operations / Comparisons / Accesses vs. n
+### Plot 2 – Operations / Comparisons / Accesses vs. n
 
-<p align="center">
-  <img src="results/plots/operations_vs_n.png" width="650">
-</p>
+<img src="./results/plots/operations_vs_n.png" width="600" alt="Operations vs n">
 
 
 
